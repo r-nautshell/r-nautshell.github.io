@@ -4,7 +4,7 @@
 nautshell
 - CET; weekends, some weekday evenings
 
-## games
+## [games](games.md)
 + ### splatoon 3
 #### ranked
 s-s+. wish i had more time to game, yadda yadda :^)
