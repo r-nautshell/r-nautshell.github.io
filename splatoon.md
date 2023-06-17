@@ -7,7 +7,7 @@ s-s+. wish i had more time to game, yadda yadda :^)
 - voctobrush
 - vsplattershot
 
-(inactive ↓)
+(inactive &darr;)
 - znf splat charger, znf splatterscope
 - forge splattershot pro
 - vsplat brella
