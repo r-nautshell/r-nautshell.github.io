@@ -6,6 +6,6 @@ nautshell
 
 ## games
 - [splatoon 3](splatoon.md)
-- (inactive) [apex legends](apex legends.md)
+- (inactive) [apex legends]('apex legends.md')
 - (inactive) [league of legends](lol.md)
-- (inactive) [eternal return](eternal return.md)
+- (inactive) [eternal return]('eternal return.md')
