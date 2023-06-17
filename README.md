@@ -1,6 +1,7 @@
 # hello
 
 ## about
+nautshell
 - CET; weekends, some weekday evenings
 
 ## games
@@ -13,11 +14,13 @@ s-s+. wish i had more time to game, yadda yadda :^)
 - voctobrush
 - vsplattershot
 
+(
 - znf splat charger, znf splatterscope
 - forge splattershot pro
 - vsplat brella
 - vexplosher
 - vrange blaster
+)
 
 #### salmon run
 evp
