@@ -16,3 +16,9 @@
 
 #### salmon run
 evp
+
+## splatoon 2
+X
+
+## splatoon 1
+mostly casual
